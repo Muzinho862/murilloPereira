@@ -3,3 +3,7 @@ BIBLIOTECAS
   - Também foi ensinado sobre a importação dessas mesmas bibliotecas para dentro do código evitando a criação de funções presentes nessas bibliotecas, agilizando o trabalho.
   - Explicação sobre apelidação em bibliotecas, facilitando o uso dela, não precisando escrever seu nome por completo todas as vezes e sim o apulidao, como por exemplo: "matplotlib -> plt".
   - Aprendi a utilizar as funções dessas bibliotecas e também a instalar funções especificas de uma biblioteca sem precisar importar a biblioteca completa.
+
+FUNÇÕES
+  - Durante essa aula foi ensinado sobre as funções, principalmente sobre a criação delas, alem de explorar as que já existem nativamente na linguagem chamadas de built-in functions.
+  - 
