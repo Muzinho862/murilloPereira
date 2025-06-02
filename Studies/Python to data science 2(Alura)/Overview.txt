@@ -2,3 +2,4 @@ BIBLIOTECAS
   - Durante o primeiro modulo foi ensinado sobre a o gerenciador de bibliotecas "PIP", o qual organiza as bibliotecas dentro do python, é utilizado para a instalação e atualizações de bibliotecas oficiais do python.
   - Também foi ensinado sobre a importação dessas mesmas bibliotecas para dentro do código evitando a criação de funções presentes nessas bibliotecas, agilizando o trabalho.
   - Explicação sobre apelidação em bibliotecas, facilitando o uso dela, não precisando escrever seu nome por completo todas as vezes e sim o apulidao, como por exemplo: "matplotlib -> plt"
+  - 
