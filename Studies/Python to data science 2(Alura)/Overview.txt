@@ -1,1 +1,3 @@
-
+BIBLIOTECAS
+  - Durante o primeiro modulo foi ensinado sobre a o gerenciador de bibliotecas "PIP", o qual organiza as bibliotecas dentro do python, é utilizado para a instalação e atualizações de bibliotecas oficiais do python.
+  - 
